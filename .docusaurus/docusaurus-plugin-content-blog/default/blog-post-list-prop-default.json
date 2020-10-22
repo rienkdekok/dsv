@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/dsv/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/dsv/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/dsv/blog/hola"
+    }
+  ]
+}

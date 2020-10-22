@@ -1,0 +1,111 @@
+{
+  "/dsv/-e8d": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/dsv/blog-339": {
+    "component": "a6aa9e1f",
+    "sidebar": "e9ac953f",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "1329e951"
+  },
+  "/dsv/blog/hello-world-047": {
+    "component": "ccc49370",
+    "sidebar": "e9ac953f",
+    "content": "d610846f"
+  },
+  "/dsv/blog/hola-d24": {
+    "component": "ccc49370",
+    "sidebar": "e9ac953f",
+    "content": "bdd709f1"
+  },
+  "/dsv/blog/tags-a04": {
+    "component": "01a85c17",
+    "sidebar": "e9ac953f",
+    "tags": "0369a881"
+  },
+  "/dsv/blog/tags/docusaurus-f90": {
+    "component": "6875c492",
+    "sidebar": "e9ac953f",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "9b59b1b8"
+  },
+  "/dsv/blog/tags/facebook-bd8": {
+    "component": "6875c492",
+    "sidebar": "e9ac953f",
+    "items": [
+      {
+        "content": "af172acd"
+      }
+    ],
+    "metadata": "f1adaafe"
+  },
+  "/dsv/blog/tags/hello-04b": {
+    "component": "6875c492",
+    "sidebar": "e9ac953f",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "efd9d4a2"
+  },
+  "/dsv/blog/tags/hola-6d6": {
+    "component": "6875c492",
+    "sidebar": "e9ac953f",
+    "items": [
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "a7b1e000"
+  },
+  "/dsv/blog/welcome-611": {
+    "component": "ccc49370",
+    "sidebar": "e9ac953f",
+    "content": "2868cdab"
+  },
+  "/dsv/docs-37d": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/dsv/docs/-bf7": {
+    "component": "17896441",
+    "content": "b2f90839"
+  },
+  "/dsv/docs/doc2-59f": {
+    "component": "17896441",
+    "content": "df361e2b"
+  },
+  "/dsv/docs/doc3-dac": {
+    "component": "17896441",
+    "content": "616665f6"
+  },
+  "/dsv/docs/mdx-612": {
+    "component": "17896441",
+    "content": "ce3e42ad"
+  }
+}
